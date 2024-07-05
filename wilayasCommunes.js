@@ -1,4 +1,4 @@
-export const wilayasCommunes = {
+const wilayasCommunes = {
     algiers: {
         communes: {
             "bab-el-oued": { normal: 500, express: 1000 },
