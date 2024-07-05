@@ -1,90 +1,26 @@
- const wilayasCommunes = {
-            "adrar": {
-        "communes": {
-            "adrar": { "normal": 400, "express": 800 },
-            "aougrout": { "normal": 400, "express": 800 },
-            "aoulef": { "normal": 400, "express": 800 },
-            "bordj badji mokhtar": { "normal": 400, "express": 800 },
-            "charouine": { "normal": 400, "express": 800 },
-            "fenoughil": { "normal": 400, "express": 800 },
-            "in zghmir": { "normal": 400, "express": 800 },
-            "ksar kaddour": { "normal": 400, "express": 800 },
-            "metarfa": { "normal": 400, "express": 800 },
-            "ouled ahmed timmi": { "normal": 400, "express": 800 },
-            "reggane": { "normal": 400, "express": 800 },
-            "sali": { "normal": 400, "express": 800 },
-            "sebaa": { "normal": 400, "express": 800 },
-            "timimoun": { "normal": 400, "express": 800 },
-            "tinerkouk": { "normal": 400, "express": 800 },
-            "tit": { "normal": 400, "express": 800 }
-        }
-    },
-    "chlef": {
-        "communes": {
-            "abou el hassan": { "normal": 400, "express": 800 },
-            "aïn merane": { "normal": 400, "express": 800 },
-            "bénairia": { "normal": 400, "express": 800 },
-            "béni bouateb": { "normal": 400, "express": 800 },
-            "béni haoua": { "normal": 400, "express": 800 },
-            "boukadir": { "normal": 400, "express": 800 },
-            "breira": { "normal": 400, "express": 800 },
-            "chlef": { "normal": 400, "express": 800 },
-            "dahra": { "normal": 400, "express": 800 },
-            "el hadjadj": { "normal": 400, "express": 800 },
-            "el karimia": { "normal": 400, "express": 800 },
-            "harchoun": { "normal": 400, "express": 800 },
-            "labiod medjadja": { "normal": 400, "express": 800 },
-            "moussadek": { "normal": 400, "express": 800 },
-            "oued fodda": { "normal": 400, "express": 800 },
-            "ouled abbes": { "normal": 400, "express": 800 },
-            "ouled fares": { "normal": 400, "express": 800 },
-            "ouled ben abdelkader": { "normal": 400, "express": 800 },
-            "sendjas": { "normal": 400, "express": 800 },
-            "sidi akacha": { "normal": 400, "express": 800 },
-            "sidi abderrahmane": { "normal": 400, "express": 800 },
-            "sidi bel hassen": { "normal": 400, "express": 800 },
-            "sobha": { "normal": 400, "express": 800 },
-            "taougrit": { "normal": 400, "express": 800 },
-            "ténès": { "normal": 400, "express": 800 },
-            "zerioua": { "normal": 400, "express": 800 }
-        }
-    },
-    "laghouat": {
-        "communes": {
-            "laghouat": { "normal": 400, "express": 800 },
-            "ain madhi": { "normal": 400, "express": 800 },
-            "bennasser benchohra": { "normal": 400, "express": 800 },
-            "bouiria": { "normal": 400, "express": 800 },
-            "el ghicha": { "normal": 400, "express": 800 },
-            "el houaita": { "normal": 400, "express": 800 },
-            "gueltat sidi saad": { "normal": 400, "express": 800 },
-            "hassi delaa": { "normal": 400, "express": 800 },
-            "hassi rmel": { "normal": 400, "express": 800 },
-            "kheneg": { "normal": 400, "express": 800 },
-            "sidi bouzid": { "normal": 400, "express": 800 },
-            "sidi makhlouf": { "normal": 400, "express": 800 },
-            "tadjemout": { "normal": 400, "express": 800 },
-            "tadjrouna": { "normal": 400, "express": 800 },
-            "taouiala": { "normal": 400, "express": 800 },
-            "tillrempt": { "normal": 400, "express": 800 }
-        }
-    },
-    "oum el bouaghi": {
-        "communes": {
-            "oum el bouaghi": { "normal": 400, "express": 800 },
-            "ain beida": { "normal": 400, "express": 800 },
-            "ain babouche": { "normal": 400, "express": 800 },
-            "ain defla": { "normal": 400, "express": 800 },
-            "ain fakroun": { "normal": 400, "express": 800 },
-            "ain kercha": { "normal": 400, "express": 800 },
-            "ain m'lila": { "normal": 400, "express": 800 },
-            "ain zitoun": { "normal": 400, "express": 800 },
-            "bennaceur": { "normal": 400, "express": 800 },
-            "berhoum": { "normal": 400, "express": 800 },
-            "biskra": { "normal": 400, "express": 800 },
-            "djazia": { "normal": 400, "express": 800 },
-            "el amiria": { "normal": 400, "express": 800 },
-                },
-            },
-        };
+// wilayasCommunes.js
+const wilayasCommunes = {
+   algiers: {
+      communes: {
+         "bab-el-oued": { normal: 500, express: 1000 },
+         "el harrach": { normal: 700, express: 1400 },
+         kouba: { normal: 600, express: 1200 },
+      },
+   },
+   oran: {
+      communes: {
+         "es-senia": { normal: 400, express: 800 },
+         arzew: { normal: 800, express: 1600 },
+         gdyel: { normal: 450, express: 900 },
+      },
+   },
+   constantine: {
+      communes: {
+         "el-khroub": { normal: 300, express: 600 },
+         "ali-mendjeli": { normal: 600, express: 1200 },
+         "zighoud-youcef": { normal: 500, express: 1000 },
+      },
+   },
+};
+
 export default wilayasCommunes;
