@@ -21,6 +21,6 @@ const wilayasCommunes = {
          "zighoud-youcef": { normal: 500, express: 1000 },
       },
    },
-};                
+};
 
 export default wilayasCommunes;
