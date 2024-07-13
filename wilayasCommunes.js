@@ -1,22 +1,32 @@
  const wilayasCommunes = {
             "adrar": {
         "communes": {
-            "adrar": { "normal": 400, "express": 800 },
-            "aougrout": { "normal": 400, "express": 800 },
-            "aoulef": { "normal": 400, "express": 800 },
-            "bordj badji mokhtar": { "normal": 400, "express": 800 },
-            "charouine": { "normal": 400, "express": 800 },
-            "fenoughil": { "normal": 400, "express": 800 },
-            "in zghmir": { "normal": 400, "express": 800 },
-            "ksar kaddour": { "normal": 400, "express": 800 },
-            "metarfa": { "normal": 400, "express": 800 },
-            "ouled ahmed timmi": { "normal": 400, "express": 800 },
-            "reggane": { "normal": 400, "express": 800 },
-            "sali": { "normal": 400, "express": 800 },
-            "sebaa": { "normal": 400, "express": 800 },
-            "timimoun": { "normal": 400, "express": 800 },
-            "tinerkouk": { "normal": 400, "express": 800 },
-            "tit": { "normal": 400, "express": 800 }
+            "adrar": { "normal": 1150 , "express": 1450  },
+            "Akabli": { "normal":  , "express": 1450 },
+            "Aougrout ": { "normal":  , "express": 1450 },
+			"Aoulef": { "normal":  , "express": 1450 },
+            "Bouda": { "normal":  , "express": 1450 },
+            "charouine": { "normal": , "express": 1450 },
+            "Deldoul": { "normal": , "express": 1450 },
+            "Fenoughil": { "normal": , "express": 1450 },
+            "In Zghmir": { "normal": , "express": 1450 },
+            "Ksar Kaddour": { "normal": , "express": 1450 },
+            "Metarfa": { "normal": , "express": 1450 },
+            "Ouled Ahmed Tammi": { "normal": , "express": 1450 },
+            "Ouled Aïssa": { "normal": , "express": 1450 },
+            "Ouled Saïd ": { "normal": , "express": 1450 },
+			"Reggane": { "normal": , "express": 1450 },
+			"Sali": { "normal": , "express": 1450 },
+			"Sebaa": { "normal": , "express": 1450 },
+			"Talmine": { "normal": , "express": 1450 },
+			"Tamantit": { "normal": , "express": 1450 },
+			"Tamekten": { "normal": , "express": 1450 },
+			"Tamest": { "normal": , "express": 1450 },
+            "timimoun": { "normal": 1150, "express": 1450 },
+            "Tinerkouk ": { "normal": , "express": 1450 },
+            "tit": { "normal": , "express": 1450 }
+			"Tsabit": { "normal": , "express": 1450 }
+			"Zaouiet Kounta": { "normal": , "express": 1450 }
         }
     },
     "chlef": {
