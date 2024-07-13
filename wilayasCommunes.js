@@ -3,7 +3,7 @@ const wilayasCommunes = {
         communes: {
             adrar: { normal: 1150, express: 1450 },
             Akabli: { normal: No, express: 1450 },
-            "Aougrout ": { normal: No, express: 1450 },
+            "Aougrout": { normal: No, express: 1450 },
             Aoulef: { normal: No, express: 1450 },
             Bouda: { normal: No, express: 1450 },
             charouine: { normal: No, express: 1450 },
@@ -23,7 +23,7 @@ const wilayasCommunes = {
             Tamekten: { normal: No, express: 1450 },
             Tamest: { normal: No, express: 1450 },
             timimoun: { normal: 1150, express: 1450 },
-            "Tinerkouk ": { normal: No, express: 1450 },
+            "Tinerkouk": { normal: No, express: 1450 },
             tit: { normal: No, express: 1450 },
             Tsabit: { normal: No, express: 1450 },
             "Zaouiet Kounta": { normal: No, express: 1450 },
