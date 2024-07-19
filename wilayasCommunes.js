@@ -1,19 +1,3 @@
-
-const zones = [
-    { normal: 300, express: 500 },
-    { normal: 350, express: 650 },
-    { normal: 400, express: 850 },
-    { normal: 600, express: 1000 },
-    { normal: 1450, express: 1450 },
-    { normal: 1200, express: 1650 },
-];
-
-const horsZoneCharges = {
-    1: 100,
-    2: 200,
-    3: 300,
-};
-
 const wilayasCommunes = {
     adrar: {
         communes: {
