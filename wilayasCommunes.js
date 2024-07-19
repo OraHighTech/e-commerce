@@ -1,9 +1,3 @@
-const prices = {
-    EU: 10000.0,
-    US: 11000.0,
-    UK: 12000.0,
-    CH: 13000.0,
-};
 
 const zones = [
     { normal: 300, express: 500 },
