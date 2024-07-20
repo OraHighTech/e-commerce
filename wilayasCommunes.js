@@ -1,5 +1,5 @@
 const wilayasCommunes = {
-  adrar: {
+  01-adrar: {
     zone: 4,
     communes: {
       adrar: {},
@@ -30,7 +30,7 @@ const wilayasCommunes = {
       "Zaouiet Kounta": { expressOnly: true },
     },
   },
-  chlef: {
+  02-chlef: {
     zone: 2,
     communes: {
       "Abou El Hassan": { horsZone: 1, expressOnly: true },
@@ -70,7 +70,7 @@ const wilayasCommunes = {
       zerioua: { horsZone: 1, expressOnly: true },
     },
   },
-  laghouat: {
+  03-laghouat: {
     zone: 3,
     communes: {
       "Aïn Madhi": { expressOnly: true },
