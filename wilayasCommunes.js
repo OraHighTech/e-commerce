@@ -1,5 +1,5 @@
 const wilayasCommunes = {
-  01-adrar: {
+  "01-Adrar": {
     zone: 4,
     communes: {
       adrar: {},
@@ -30,7 +30,7 @@ const wilayasCommunes = {
       "Zaouiet Kounta": { expressOnly: true },
     },
   },
-  02-chlef: {
+  "02-Chlef": {
     zone: 2,
     communes: {
       "Abou El Hassan": { horsZone: 1, expressOnly: true },
@@ -70,7 +70,7 @@ const wilayasCommunes = {
       zerioua: { horsZone: 1, expressOnly: true },
     },
   },
-  03-laghouat: {
+  "03-Laghouat": {
     zone: 3,
     communes: {
       "Aïn Madhi": { expressOnly: true },
@@ -89,7 +89,7 @@ const wilayasCommunes = {
       Tadjemout: { expressOnly: true },
     },
   },
-  "oum el bouaghi": {
+  "04-Oum el bouaghi": {
     zone: 2,
     communes: {
       "Aïn Beïda": { expressOnly: true },
@@ -122,7 +122,7 @@ const wilayasCommunes = {
       Zorg: { expressOnly: true },
     },
   },
-  batna: {
+  "05-Batna": {
     zone: 2,
     communes: {
       "Aïn Djasser": { expressOnly: true },
@@ -184,7 +184,7 @@ const wilayasCommunes = {
       "Zanat El Beida": { expressOnly: true },
     },
   },
-  bejaia: {
+  "06-Bejaia": {
     zone: 2,
     communes: {
       "Ait Djellil": { expressOnly: true },
@@ -238,7 +238,7 @@ const wilayasCommunes = {
       Toudja: { expressOnly: true },
     },
   },
-  oran: {
+  "31-Oran": {
     zone: 0,
     communes: {
       "Aïn El Kerma": { expressOnly: true },
