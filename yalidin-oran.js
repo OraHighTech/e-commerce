@@ -4340,9 +4340,9 @@ const wilayasCommunes = {
         }
     }
 };
- var zones = [
+ const zones = [
         { bureau: 300, domicile: 500 }, { bureau: 350, domicile: 650 },
         { bureau: 400, domicile: 850 }, { bureau: 600, domicile: 1000 },
         { bureau: 1150, domicile: 1450 }, { bureau: 1200, domicile: 1650 }
     ];
-    var horsZoneCharges = { 1: 100, 2: 200, 3: 300 };
+    const horsZoneCharges = { 1: 100, 2: 200, 3: 300 };
