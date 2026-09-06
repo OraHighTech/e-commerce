@@ -1,7 +1,7 @@
 // ==========================================
 // YALIDINE EXPRESS (58 Wilayas) - Départ : Oran
 // ==========================================
-const DATA_LIVRAISON_YALIDINE = {
+window.DATA_LIVRAISON = {
     1: {
         name: "Adrar", home: 1000, desk: 600,
         deskCommunes: ["Adrar"],
