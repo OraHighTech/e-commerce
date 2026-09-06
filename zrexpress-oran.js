@@ -1,7 +1,7 @@
 // ==========================================
 // ZR EXPRESS (58 Wilayas) - Départ : Oran
 // ==========================================
-const DATA_LIVRAISON_ZR_EXPRESS = {
+window.DATA_LIVRAISON = {
     1: { name: "Adrar", home: 950, desk: 550, desk_communes: ["Adrar"], communes: ["Adrar", "Reggane", "Timimoun", "Aoulef"] },
     2: { name: "Chlef", home: 550, desk: 300, desk_communes: ["Chlef", "Ténès"], communes: ["Chlef", "Ténès", "Boukadir", "Oued Sly", "Sendjas", "Oued Fodda"] },
     3: { name: "Laghouat", home: 750, desk: 400, desk_communes: ["Laghouat"], communes: ["Laghouat", "Aflou", "Hassi R'Mel"] },
